@@ -46,40 +46,19 @@ I am a high-achieving STEM scholar at **El-Sadat STEM School**, specializing in 
 
 ---
 
-## 🛠 Technical Stack
-- **Mathematics:** Variational Calculus, Graph Theory, Combinatorics, Stochastic Modeling.
-- **Languages:** Python (NumPy, SciPy, Flask), MATLAB/Simulink, C++, LaTeX, R.
-- **Tools:** ROS (Robot Operating System), CAD (SolidWorks), Git, Linux, Arduino.
-
----
-
-## 🤝 Leadership & Impact
-- **Founder, Pi4U Initiative:** Directly training **230+ students** for international Math Olympiads; achieved a +26% average score boost.
-- **Student Council President:** Leading a student body of **1,500+ individuals**; managed major charity and mental health programs.
-- **Academic Mentor, SadatSTEMPire:** Mentored 1,500 students, boosting school entrance exam acceptance rates by **17%**.
-- **Vice Persident, STEM Robotics:** Directed 14+ competition teams in mechanical design and algorithm development.
-
----
-
-## 📬 Connect with Me
-- **Portfolio:** [khalesherif.github.io/portfolio/](https://khalesherif.github.io/portfolio/)
-- **Email:** [khaled.2523016@stemelsadat.moe.edu.eg](mailto:khaled.2523016@stemelsadat.moe.edu.eg)
-
----
-*Designed for academic excellence and future-forward AI research.*
-
-
----
-
 ## 📊 Technical Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&theme=tokyonight&area=true" width="100%" alt="Khaled's Activity Graph" />
+  <!-- Contribution Graph - Set to match your Gold theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&theme=dracula&color=C9A24A&area=true&hide_border=true" width="100%" alt="Khaled's Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/KhaleSherif?base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Africa/Cairo&theme=tokyonight" width="48%" alt="Khaled's Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=tokyonight&hide=html,css" width="48%" alt="Top Languages" />
+  <!-- Main Stats: Shows your Rank (A++, S, etc.) which professors love -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaleSherif&show_icons=true&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true&count_private=true" width="48%" alt="Khaled's Stats" />
+  
+  <!-- Language Stats: Hiding HTML/CSS to show 100% Python/Math focused languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true&hide=html,css,javascript" width="48%" alt="Top Languages" />
 </p>
 
 ---
