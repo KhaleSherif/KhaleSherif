@@ -67,3 +67,19 @@ I am a high-achieving STEM scholar at **El-Sadat STEM School**, specializing in 
 
 ---
 *Designed for academic excellence and future-forward AI research.*
+
+
+---
+
+## 📊 Technical Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&theme=tokyonight&area=true" width="100%" alt="Khaled's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/KhaleSherif?base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Africa/Cairo&theme=tokyonight" width="48%" alt="Khaled's Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=tokyonight&hide=html,css" width="48%" alt="Top Languages" />
+</p>
+
+---
