@@ -16,7 +16,7 @@ I am a high-achieving STEM scholar at **El-Sadat STEM School**, specializing in 
 | :--- | :--- | :--- |
 | **#1 Worldwide** | **Purple Comet Math Meet** | Out of 4,613 international teams |
 | **Top 6** | **National Math Team (IMO/PAMO)** | Selected for Egypt's 2025 Olympic Team |
-| **Rank 8** | **Egyptian Physics Olympiad (EPHO)** | Top 1% of 900+ selected finalists |
+| **Rank 22** | **Egyptian Physics Olympiad (EPHO)** | Top 2.4% of 900+ selected finalists |
 | **Top 2.2%** | **National STEM Admissions Test** | Rank 364 out of 16,000+ candidates |
 | **2nd Place** | **ESEF (ISEF National Qualifier)** | Mathematical Research Category |
 
