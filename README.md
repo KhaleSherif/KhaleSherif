@@ -62,5 +62,4 @@ I am a high-achieving STEM scholar at **El-Sadat STEM School**, specializing in 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=vision-friendly-dark&hide=html,css,javascript" width="48%" />
 </p>
 
-
 ---
