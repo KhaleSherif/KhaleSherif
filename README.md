@@ -48,12 +48,19 @@ I am a high-achieving STEM scholar at **El-Sadat STEM School**, specializing in 
 ## 📊 Technical Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&bg_color=0B1020&color=C9A24A&line=C9A24A&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <!-- Contribution Graph - Using a different reliable server -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&theme=react-dark&color=C9A24A&area=true&hide_border=true" width="100%" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaleSherif&show_icons=true&theme=dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=dark&hide=html,css,javascript" width="49%" />
+  <!-- Main Stats - Simple version to avoid fetching errors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaleSherif&show_icons=true&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true" width="48%" />
+
+  <!-- Language Stats - Using a different theme to force a fresh fetch -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=vision-friendly-dark&hide=html,css,javascript" width="48%" />
 </p>
+
 
 ---
