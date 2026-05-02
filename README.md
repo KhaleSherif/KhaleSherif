@@ -45,20 +45,24 @@ I am a high-achieving STEM scholar at **El-Sadat STEM School**, specializing in 
 - Architected a Brain-Computer Interface framework to monitor mental health via EEG brainwave analysis.
 
 ---
-
 ## 📊 Technical Activity & Metrics
 
 <p align="center">
-  <!-- Contribution Graph - Set to match your Gold theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&theme=dracula&color=C9A24A&area=true&hide_border=true" width="100%" alt="Khaled's Activity Graph" />
+  <!-- Fixed Activity Graph with Gold Colors -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&bg_color=0B1020&color=C9A24A&line=C9A24A&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Khaled's Activity Graph" />
 </p>
 
+<br/>
+
 <p align="center">
-  <!-- Main Stats: Shows your Rank (A++, S, etc.) which professors love -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaleSherif&show_icons=true&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true&count_private=true" width="48%" alt="Khaled's Stats" />
+  <!-- Main Stats - Optimized for Stability -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaleSherif&show_icons=true&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true" width="48%" alt="Khaled's Stats" />
   
-  <!-- Language Stats: Hiding HTML/CSS to show 100% Python/Math focused languages -->
+  <!-- Language Stats - Optimized for Stability -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true&hide=html,css,javascript" width="48%" alt="Top Languages" />
+</p>
+
+---username=KhaleSherif&layout=compact&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true&hide=html,css,javascript" width="48%" alt="Top Languages" />
 </p>
 
 ---
