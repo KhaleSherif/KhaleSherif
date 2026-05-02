@@ -45,19 +45,15 @@ I am a high-achieving STEM scholar at **El-Sadat STEM School**, specializing in 
 - Architected a Brain-Computer Interface framework to monitor mental health via EEG brainwave analysis.
   
 ---
-
 ## 📊 Technical Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&bg_color=0B1020&color=C9A24A&line=C9A24A&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Khaled's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleSherif&bg_color=0B1020&color=C9A24A&line=C9A24A&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaleSherif&show_icons=true&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=tokyonight&icon_color=C9A24A&text_color=B7C0D1&title_color=C9A24A&bg_color=0B1020&hide_border=true&hide=html,css,javascript" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaleSherif&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleSherif&layout=compact&theme=dark&hide=html,css,javascript" width="49%" />
 </p>
 
----
 ---
